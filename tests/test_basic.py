@@ -1,4 +1,4 @@
-from sample.basic import BMI
+from sample.bmi import BMI
 from unittest import TestCase
 
 
